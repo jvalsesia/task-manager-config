@@ -16,7 +16,7 @@ spring:
       driver-class-name: org.postgresql.Driver
 
 task-manager:
-  message: "Welcome to Task Manager related local APIs "
+  message: "Welcome to Task Manager related local APIs changed in GIT"
   contactDetails:
     name: "Julio Valsesia - Software Engineer"
     email: "jvalsesia@gmail.com"
