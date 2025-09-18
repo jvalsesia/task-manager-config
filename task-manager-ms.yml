@@ -19,7 +19,7 @@ task-manager:
   message: "Welcome to Task Manager related local APIs changed in GIT"
   contactDetails:
     name: "Julio Valsesia - Software Engineer"
-    email: "jvalsesia@gmail.com"
+    email: "{cipher}ee9f616d870660dc08a01a8e7f3a2a0e348c2313609056398f335dc0f409fce3bfa31eb831ff2d2f91e88079f6359d2d"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
