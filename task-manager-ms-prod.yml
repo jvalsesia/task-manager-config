@@ -16,7 +16,7 @@ spring:
       driver-class-name: org.postgresql.Driver
 
 task-manager:
-  message: "Welcome to PROD after Actuator Task Manager related local APIs changed in GIT using cipher"
+  message: "Welcome to PROD after Actuator BUS and RabbitMQ Task Manager related local APIs changed in GIT using cipher"
   contactDetails:
     name: "Julio Valsesia - Software Engineer"
     email: "{cipher}ee9f616d870660dc08a01a8e7f3a2a0e348c2313609056398f335dc0f409fce3bfa31eb831ff2d2f91e88079f6359d2d"
