@@ -15,7 +15,7 @@ spring:
       password: secret
       driver-class-name: org.postgresql.Driver
 
-task-manager:
+task-manager-ms:
   message: "Welcome WEBHOOK to Task Manager related local APIs changed in GIT using cipher"
   contactDetails:
     name: "Julio Valsesia - Software Engineer"
